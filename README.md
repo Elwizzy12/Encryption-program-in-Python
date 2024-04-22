@@ -4,13 +4,12 @@ This Python program demonstrates a basic encryption and decryption process using
 Python 3.x: Make sure you have Python 3.x installed on your system.
 
 # Getting Started
- ## 1. Clone the Repository
+ ### 1. Clone the Repository
 `$ git clone git@github.com:Elwizzy12/Encryption-program-in-Python.git`
-
- ## 2. $ cd Encryption-program-in-Python
+` $ cd Encryption-program-in-Python`
  
- ## 3. Run the Program
-$ python3 main.py
+ ### Run the Program
+`$ python3 main.py`
 
 # Usage
 ## 1. Encryption:
