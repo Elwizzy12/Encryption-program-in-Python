@@ -5,9 +5,10 @@ Python 3.x: Make sure you have Python 3.x installed on your system.
 
 # Getting Started
 1. Clone the Repository
-$ git clone git@github.com:Elwizzy12/Encryption-program-in-Python.git
+`$ git clone git@github.com:Elwizzy12/Encryption-program-in-Python.git`
+
 $ cd Encryption-program-in-Python
-2. Run the Program
+3. Run the Program
 
 $ python encryption_decryption.py
 
